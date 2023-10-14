@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahulauiuxndgraphic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahulauiuxndgraphic/" height="30" width="40" /></a>
 <a href="https://instagram.com/the_rahul.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_rahul.a" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/rahuluiux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/rahuluiux" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/rahuluiux(https://www.behance.net/rahuluiux)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/rahuluiux" height="30" width="40" /></a>
 <a href="https://medium.com/@therahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@therahul" height="30" width="40" /></a>
 <a href="/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="." height="30" width="40" /></a>
 </p>
